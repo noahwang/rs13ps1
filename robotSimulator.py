@@ -16,8 +16,6 @@ window = None
 pad = None
 padPos = None
 
-
-
 class Maze:
     '''Maze Class'''
     def __init__ (self, mazeStr):
