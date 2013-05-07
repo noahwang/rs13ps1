@@ -116,3 +116,18 @@ trial. Compare the performance of the reinforcement learning system
 with the randomly walking controller. You may do so by plotting the
 number of actions taken to reach the goal for both the reinforcement
 learning controller and the random controller.
+
+
+======RESULT======
+
+Random Controller 61-21
+338357
+240561
+307331
+440599
+671014
+557584
+626965
+778573
+153821
+464105
